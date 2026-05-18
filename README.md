@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=John+Philip+%22JP%22+Pacho" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=99999&color=0d1117&center=true&vCenter=true&width=600&lines=John+Philip+%22JP%22+Pacho" />
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=John+Philip+%22JP%22+Pacho" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=JP+Pacho" />
 </picture>
 
 <br/>
