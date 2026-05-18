@@ -1,63 +1,62 @@
+<!-- ============================================================
+     JP PACHO — GitHub Profile README
+     Inspired by: bossROO.com
+     Design: Brutalist · Dark · Bold · Numbered
+============================================================ -->
+
+<!-- ░░ HERO HEADER — animated fadeIn, massive bold name ░░ -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a0a0a,100:111111&height=280&section=header&text=JP%20PACHO&fontSize=96&fontColor=FFFFFF&fontAlignY=42&fontAlign=50&desc=JUNIOR%20SOFTWARE%20ENGINEER%20%2F%20FULL-STACK%20DEVELOPER&descSize=13&descAlignY=62&descAlign=50&descColor=444444&animation=fadeIn"
+  width="100%"
+/>
+
+<br/>
+
+<!-- ░░ ANIMATED SUBTITLE ░░ -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=3000&color=555555&center=true&vCenter=true&width=640&lines=4TH-YEAR+BSIT+%E2%80%94+PHILIPPINES;BUILDING+CLEAN+%26+PURPOSEFUL+WEB+SYSTEMS;NEXT.JS+%C2%B7+TYPESCRIPT+%C2%B7+PRISMA+%C2%B7+POSTGRESQL;OPEN+TO+COLLABORATION" />
 
 <br/><br/>
 
-<!-- MASSIVE BOLD NAME — BEBAS NEUE CONDENSED STYLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=80&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=JP+PACHO" alt="JP Pacho" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=444444&center=true&vCenter=true&width=600&lines=JUNIOR+SOFTWARE+ENGINEER+%2F+FULL-STACK+DEVELOPER+%2F+PHILIPPINES" />
-
-<br/>
-
-<!-- THIN RULE — matches the bossROO divider under the name -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&width=600" width="600" />
-
-<br/>
-
-<!-- CONTACT ROW -->
+<!-- ░░ CONTACT LINKS ░░ -->
 <a href="mailto:pachojophi189@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-000000?style=flat-square&logo=gmail&logoColor=444444&labelColor=000000" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=333333&labelColor=000000" />
 </a>
 &ensp;
 <a href="https://linkedin.com/in/jp-pacho-ts">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=444444&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=333333&labelColor=000000" />
 </a>
 &ensp;
 <a href="https://github.com/jp-pacho-ts">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=444444&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=333333&labelColor=000000" />
 </a>
 &ensp;
-<img src="https://komarev.com/ghpvc/?username=jp-pacho-ts&style=flat-square&color=000000&label=VIEWS&labelColor=111111" />
+<img src="https://komarev.com/ghpvc/?username=jp-pacho-ts&style=for-the-badge&color=000000&label=VIEWS&labelColor=111111" />
 
-<br/><br/>
+</div>
 
-<!-- NUMBERED SECTION NAV — like bossROO bottom bar -->
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="150"><sub>01</sub><br/><b>ABOUT</b></td>
-<td align="center" width="150"><sub>02</sub><br/><b>TECHNOLOGY</b></td>
-<td align="center" width="150"><sub>03</sub><br/><b>WORK</b></td>
-<td align="center" width="150"><sub>04</sub><br/><b>STATS</b></td>
-<td align="center" width="150"><sub>05</sub><br/><b>CURRENTLY</b></td>
-</tr>
-</table>
+<br/>
 
+<!-- ░░ SECTION NAV BAR — bossROO numbered bottom bar ░░ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=48&text=01%20%C2%B7%20ABOUT%20%20%20%20%2002%20%C2%B7%20TECHNOLOGY%20%20%20%2003%20%C2%B7%20WORK%20%20%20%2004%20%C2%B7%20STATS%20%20%20%2005%20%C2%B7%20NOW&fontSize=11&fontColor=444444&fontAlign=50&fontAlignY=55" width="100%" />
 </div>
 
 <br/><br/>
 
----
+<!-- ══════════════════════════════════════════════
+     01 / ABOUT
+══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=%5B+01+%5D+ABOUT&fontSize=13&fontColor=ffffff&fontAlign=6&fontAlignY=60&section=header" width="100%" />
 
 <br/>
-
-```
-01 / ABOUT
-```
 
 ```typescript
 const jp = {
   name:       "John Philip \"JP\" Pacho",
-  role:       "Junior Software Engineer  ·  Full-Stack Developer",
+  role:       "Junior Software Engineer · Full-Stack Developer",
   education:  "4th-Year BSIT — Philippines",
 
   stack: {
@@ -66,83 +65,62 @@ const jp = {
     backend:    ["Node.js", "Django", "Prisma", "NextAuth", "Zod"],
     database:   ["PostgreSQL", "MySQL"],
     cloud:      ["Vercel", "Fly.io", "Docker"],
-    design:     ["Figma", "Canva", "Adobe Premiere Pro", "Lightroom"],
+    design:     ["Figma", "Canva", "Premiere Pro", "Lightroom"],
   },
 
-  focus:      ["Full-Stack Development", "Software Engineering", "UI/UX Design"],
+  focus:     ["Full-Stack Development", "UI/UX Design", "Software Engineering"],
   available:  true,
 };
 ```
 
 <br/>
 
----
+<!-- ══════════════════════════════════════════════
+     02 / TECHNOLOGY
+══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=%5B+02+%5D+TECHNOLOGY&fontSize=13&fontColor=ffffff&fontAlign=8&fontAlignY=60" width="100%" />
 
 <br/>
-
-```
-02 / TECHNOLOGY
-```
 
 <div align="center">
 
 <table>
 <tr>
-<td align="left" width="140"><code>LANGUAGES</code></td>
-<td>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</td>
+  <td align="left" width="130"><sub><code>LANGUAGES</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,php,java&theme=dark&perline=10" />
+  </td>
 </tr>
 <tr>
-<td align="left"><code>FRONTEND</code></td>
-<td>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=ffffff" />
-</td>
+  <td align="left"><sub><code>FRONTEND</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark&perline=10" />
+  </td>
 </tr>
 <tr>
-<td align="left"><code>BACKEND</code></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=3E67B1" />
-</td>
+  <td align="left"><sub><code>BACKEND</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nodejs,django,prisma&theme=dark&perline=10" />
+  </td>
 </tr>
 <tr>
-<td align="left"><code>DATABASE</code></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-</td>
+  <td align="left"><sub><code>DATABASE</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=10" />
+  </td>
 </tr>
 <tr>
-<td align="left"><code>CLOUD</code></td>
-<td>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Fly.io-000000?style=flat-square&logo=flydotio&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-</td>
+  <td align="left"><sub><code>CLOUD & DEVOPS</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=vercel,docker,git,linux&theme=dark&perline=10" />
+  </td>
 </tr>
 <tr>
-<td align="left"><code>DESIGN</code></td>
-<td>
-<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=00C4CC" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-000000?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
-<img src="https://img.shields.io/badge/Lightroom-000000?style=flat-square&logo=adobelightroom&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Cisco-000000?style=flat-square&logo=cisco&logoColor=1BA0D7" />
-</td>
+  <td align="left"><sub><code>DESIGN</code></sub></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=figma,ps,premiere,lightroom&theme=dark&perline=10" />
+  </td>
 </tr>
 </table>
 
@@ -150,134 +128,92 @@ const jp = {
 
 <br/>
 
----
+<!-- ══════════════════════════════════════════════
+     03 / SELECTED WORK
+══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=%5B+03+%5D+SELECTED+WORK&fontSize=13&fontColor=ffffff&fontAlign=9&fontAlignY=60" width="100%" />
 
 <br/>
 
-```
-03 / SELECTED WORK
-```
+| &nbsp; | Project | Description | Stack |
+|:--:|:--|:--|:--|
+| `→` | **Evolution Golf Members Portal** | Full-stack membership platform — customer dashboard, admin controls, tiered access, giveaways, Shopify & Stripe integration | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Stripe` |
+| `→` | **OJT DTR & Attendance System** | Role-based attendance and rendered-hours tracker for students, supervisors, and admins with real-time reporting | `Next.js` `TypeScript` `NextAuth` `Prisma` `PostgreSQL` |
+| `→` | **GenderLens / GenderGap U** | University gender data analytics system processing sex-disaggregated data for GAD institutional decision-making | `Vue.js` `Python` `PostgreSQL` |
+| `→` | **CapstoneVault** | Smart archival system with role-based access, time-series research trend visualization, and NLP insights | `Python` `NLP` `PostgreSQL` |
+| `→` | **Django Inventory System** | CRUD operations, auth flows, database relationships, and clean backend architecture — built for learning | `Django` `Vue.js` `PostgreSQL` |
+| `→` | **Secure Network Design Labs** | Cisco Packet Tracer labs — VLANs, EtherChannel, WAN, PPP/CHAP, GRE tunneling | `Cisco` `Networking` |
 
 <br/>
 
-**`→` EVOLUTION GOLF MEMBERS PORTAL**
+<!-- ══════════════════════════════════════════════
+     04 / STATS
+══════════════════════════════════════════════ -->
 
-Full-stack membership platform — customer dashboard, admin controls, tiered access, giveaways, Shopify integration, Stripe billing.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=635BFF" />
-<img src="https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=96BF48" />
-
-<br/><br/>
-
-**`→` OJT DTR & ATTENDANCE SYSTEM**
-
-Role-based attendance and rendered-hours tracking for students, supervisors, and administrators with real-time reporting.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-
-<br/><br/>
-
-**`→` GENDERLENS / GENDERGAP U**
-
-University gender data analytics system processing sex-disaggregated data for GAD-related institutional decision-making.
-
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-
-<br/><br/>
-
-**`→` CAPSTONEVAULT**
-
-Smart archival system — role-based access, time-series research trend visualization, and NLP-driven insights.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-
-<br/><br/>
-
-**`→` DJANGO INVENTORY SYSTEM**
-
-CRUD operations, authentication flows, database relationships, and clean backend architecture — built for learning.
-
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-
-<br/><br/>
-
-**`→` SECURE NETWORK DESIGN LABS**
-
-Cisco Packet Tracer labs — VLANs, EtherChannel, WAN design, PPP/CHAP, and GRE tunneling.
-
-<img src="https://img.shields.io/badge/Cisco-000000?style=flat-square&logo=cisco&logoColor=1BA0D7" />
-<img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cloudflare&logoColor=F38020" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=%5B+04+%5D+STATS&fontSize=13&fontColor=ffffff&fontAlign=5&fontAlignY=60" width="100%" />
 
 <br/>
-
----
-
-<br/>
-
-```
-04 / STATS
-```
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=jp-pacho-ts&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=444444&icon_color=444444&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="158"
+  src="https://github-readme-stats.vercel.app/api?username=jp-pacho-ts&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=444444&icon_color=333333&include_all_commits=true&count_private=true&rank_icon=github&hide_title=false"
+/>
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pacho-ts&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=444444&langs_count=6" />
+<img height="158"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pacho-ts&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=444444&langs_count=6"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=jp-pacho-ts&theme=github-dark-blue&hide_border=true&background=000000&stroke=1a1a1a&ring=333333&fire=555555&currStreakLabel=555555&sideLabels=333333&dates=333333&currStreakNum=ffffff&sideNums=aaaaaa" />
+<img
+  src="https://streak-stats.demolab.com?user=jp-pacho-ts&hide_border=true&background=000000&stroke=111111&ring=222222&fire=555555&currStreakLabel=555555&sideLabels=333333&dates=333333&currStreakNum=ffffff&sideNums=888888&type=svg"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jp-pacho-ts&bg_color=000000&color=444444&line=222222&point=666666&area=true&area_color=111111&hide_border=true&custom_title=CONTRIBUTION+GRAPH" width="96%" />
+<!-- ░░ ANIMATED CONTRIBUTION GRAPH ░░ -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jp-pacho-ts&bg_color=000000&color=333333&line=1a1a1a&point=555555&area=true&area_color=0d0d0d&hide_border=true&custom_title=CONTRIBUTION+GRAPH&title_color=444444"
+  width="96%"
+/>
+
+<br/><br/>
+
+<!-- ░░ ANIMATED SNAKE — requires GitHub Action setup (see below) ░░ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jp-pacho-ts/jp-pacho-ts/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jp-pacho-ts/jp-pacho-ts/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake"
+    src="https://raw.githubusercontent.com/jp-pacho-ts/jp-pacho-ts/output/github-contribution-grid-snake-dark.svg"
+    width="96%"
+  />
+</picture>
 
 </div>
 
 <br/>
 
----
+<!-- ══════════════════════════════════════════════
+     05 / CURRENTLY
+══════════════════════════════════════════════ -->
 
-<br/>
-
-```
-05 / CURRENTLY
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=36&text=%5B+05+%5D+CURRENTLY&fontSize=13&fontColor=ffffff&fontAlign=8&fontAlignY=60" width="100%" />
 
 <br/>
 
 ```
 →  BUILDING      Next.js · TypeScript · Prisma · PostgreSQL
 →  DESIGNING     UI/UX flows · responsive layouts · user-centered systems
-→  IMPROVING     Clean code · software architecture · engineering practices
+→  IMPROVING     Software architecture · clean code · engineering practices
 →  PRACTICING    React · Vue.js · Django · Tailwind CSS
 →  CREATING      Photography · cinematography · social content
 ```
 
-<br/><br/>
-
----
-
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=1&pause=99999&color=333333&center=true&vCenter=true&width=500&lines=OPEN+TO+COLLABORATION+%C2%B7+PHILIPPINES+%C2%B7+BUILDING+WITH+PURPOSE" />
-
-</div>
-
-<br/>
+<!-- ░░ FOOTER WAVE ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,60:0a0a0a,100:000000&height=120&section=footer&text=OPEN+TO+COLLABORATION&fontSize=13&fontColor=333333&fontAlignY=65&fontAlign=50&animation=fadeIn" width="100%" />
